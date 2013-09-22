@@ -10,10 +10,10 @@ end
 
 # POSTS ========================================
 post '/recipe' do 
-	
+	#build url from search params
 	build_url = "http://api.yummly.com/v1/api/recipes?_app_id=#{ENV['app_id']}&_app_key=#{ENV['app_key']}&q=#{params[:recipe]}&requirePictures=true"
-	p build_url
 	response_string = open(build_url).read
+	#parses the json response into a ruby hash
 	@json = JSON.parse(response_string)
 	
 	# obj = File.open( 'config/yummly.json').read
