@@ -1,0 +1,16 @@
+<ul>
+	<% @json["matches"].each do |match|  %>
+		<img class="recipe_img" src=<%= match['smallImageUrls'].first %> >
+		<li><%= match["recipeName"] %></li>
+		<li><%= match["ingredients"].join(",") %></li>
+
+		<% if session[:user_id] %>	
+			<form class="store_recipe" action='/store_recipe' method="post">
+				<input type="hidden" value="<%= match['smallImageUrls'].first%>" name="recipe[img_url]">
+				<input type="hidden" value="<%= match['recipeName']%>" name="recipe[name]">
+				<input type="hidden" value="<%= match["ingredients"].join(",")%>" name="recipe[ingredients]">
+				<input type="submit" value="Add!">
+			</form>
+		<% end %>
+	<% end %>
+</ul>

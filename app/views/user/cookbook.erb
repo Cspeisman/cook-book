@@ -1,0 +1,6 @@
+<h3><%= @user.username %>'s Cook Book</h3>
+<% @user.recipes.each do |recipe| %>
+	<img class="recipe_img" src="<%= recipe.img_url %>">
+	<li><%= recipe.name %></li>
+	<li><%= recipe.ingredients %></li>
+<% end %>

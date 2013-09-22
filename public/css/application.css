@@ -1,0 +1,35 @@
+.container {
+  margin: 0px 140px;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+
+}
+th {
+  text-align: left;
+}
+
+img.recipe_img{
+	width: 150px;
+	display: block;
+	padding: 10px 10px;
+}
+
+ul#nav {
+	display: inline-block;
+	float: left;
+	padding-right: 22px;
+}
+
+ul#nav li{
+	list-style-type: none;
+	padding: 10px 0;
+}
+
+ul#nav li.active{
+	border-right: none;
+}
+
+#page{
+	margin: 35px auto;
+	width: 820px;
+}

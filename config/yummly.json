@@ -1,0 +1,1318 @@
+{
+   "attribution":{
+      "html":"pizza recipes search powered by Yummly",
+      "url":"http://www.yummly.com/recipes/pizza",
+      "text":"pizza recipes: search powered by Yummly",
+      "logo":"http://static.yummly.com/api-logo.png"
+   },
+   "totalMatchCount":2976,
+   "facetCounts":{
+
+   },
+   "matches":[
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ],
+            "cuisine":[
+               "Italian"
+            ]
+         },
+         "flavors":{
+            "salty":0.3333333333333333,
+            "sour":0.16666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":0.16666666666666666,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Prosciutto-and-arugula-pizza-308003",
+         "smallImageUrls":[
+            "http://i.yummly.com/Prosciutto-and-arugula-pizza-308003-272011.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":3600.0,
+         "ingredients":[
+            "pizza dough",
+            "olive oil",
+            "arugula",
+            "prosciutto",
+            "mozzarella cheese",
+            "tomato sauce"
+         ],
+         "recipeName":"Prosciutto and Arugula Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":4,
+         "id":"Mini-Deep-Dish-Pizzas-Martha-Stewart-191946",
+         "smallImageUrls":[
+            "http://i.yummly.com/Mini-Deep-Dish-Pizzas-Martha-Stewart-191946-104372.s.png"
+         ],
+         "sourceDisplayName":"Martha Stewart",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "shredded mozzarella",
+            "olive oil",
+            "tomato",
+            "coarse salt",
+            "all-purpose flour",
+            "pizza doughs",
+            "vegetables",
+            "ground pepper"
+         ],
+         "recipeName":"Mini Deep-Dish Pizzas"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.5,
+            "sweet":0.3333333333333333,
+            "bitter":0.3333333333333333,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Shaved-asparagus-pizza-305406",
+         "smallImageUrls":[
+            "http://i.yummly.com/Shaved-asparagus-pizza-305406-268862.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":null,
+         "ingredients":[
+            "coarse salt",
+            "pizza doughs",
+            "black pepper",
+            "shredded mozzarella",
+            "asparagus",
+            "parmesan",
+            "scallion",
+            "olive oil"
+         ],
+         "recipeName":"Shaved Asparagus Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Japanese-pizza-308748",
+         "smallImageUrls":[
+            "http://i.yummly.com/Japanese-pizza-308748-272922.s.jpg"
+         ],
+         "sourceDisplayName":"101 Cookbooks",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "cabbage",
+            "eggs",
+            "salt",
+            "whole wheat pastry flour",
+            "leeks",
+            "almonds",
+            "garnish",
+            "chives",
+            "olive oil"
+         ],
+         "recipeName":"Japanese Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":1.0,
+            "sour":0.8333333333333334,
+            "sweet":0.16666666666666666,
+            "bitter":0.5,
+            "meaty":0.16666666666666666,
+            "piquant":0.8333333333333334
+         },
+         "rating":5,
+         "id":"Buffalo-Style-Chicken-Pizza-Allrecipes",
+         "smallImageUrls":[
+            "http://i2.yummly.com/Buffalo-Style-Chicken-Pizza-Allrecipes.s.png",
+            "http://i.yummly.com/Buffalo-Style-Chicken-Pizza-Allrecipes-50519.s.png"
+         ],
+         "sourceDisplayName":"AllRecipes",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "boneless skinless chicken breast halves",
+            "melted butter",
+            "shredded mozzarella cheese",
+            "prepared pizza crust",
+            "salad dressing",
+            "hot sauce"
+         ],
+         "recipeName":"Buffalo Style Chicken Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Pizza-with-crispy-kale_-butternut-squash_-bacon-_-smoked-mozzarella-307942",
+         "smallImageUrls":[
+            "http://i.yummly.com/Pizza-with-crispy-kale_-butternut-squash_-bacon-_-smoked-mozzarella-307942-271950.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":3600.0,
+         "ingredients":[
+            "mozzarella",
+            "pizza dough",
+            "butternut squash",
+            "kale",
+            "salt",
+            "bacon",
+            "olive oil"
+         ],
+         "recipeName":"Pizza with Crispy Kale, Butternut Squash, Bacon & Smoked Mozzarella"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes",
+               "Appetizers",
+               "Lunch and Snacks"
+            ],
+            "cuisine":[
+               "Mediterranean",
+               "Greek"
+            ]
+         },
+         "flavors":{
+            "salty":0.3333333333333333,
+            "sour":0.6666666666666666,
+            "sweet":0.5,
+            "bitter":0.5,
+            "meaty":0.16666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Greek-pizza-333514",
+         "smallImageUrls":[
+            "http://i.yummly.com/Greek-pizza-333514-295434.s.jpg"
+         ],
+         "sourceDisplayName":"How Sweet It Is",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "artichoke hearts",
+            "feta",
+            "tomatoes",
+            "garlic cloves",
+            "red onion",
+            "kalamata olives",
+            "pizza doughs",
+            "fresh dill",
+            "mozzarella cheese",
+            "olive oil",
+            "roasted red pepper"
+         ],
+         "recipeName":"Greek Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.16666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":0.16666666666666666,
+            "meaty":0.5,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Tomato-and-Basil-Pizza-Martha-Stewart-191723",
+         "smallImageUrls":[
+            "http://i.yummly.com/Tomato-and-Basil-Pizza-Martha-Stewart-191723-103943.s.png"
+         ],
+         "sourceDisplayName":"Martha Stewart",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "pizza doughs",
+            "herbed oil",
+            "tomato sauce",
+            "fresh basil leaves",
+            "ground pepper",
+            "fresh mozzarella",
+            "coarse salt"
+         ],
+         "recipeName":"Tomato and Basil Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Avocado-and-egg-breakfast-pizza-344550",
+         "smallImageUrls":[
+            "http://i.yummly.com/Avocado-and-egg-breakfast-pizza-344550-303403.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "large eggs",
+            "hass avocado",
+            "vegetable oil",
+            "salt",
+            "chopped cilantro",
+            "lime juice",
+            "hot sauce",
+            "pizza dough"
+         ],
+         "recipeName":"Avocado and Egg Breakfast Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Green-pizza-310023",
+         "smallImageUrls":[
+            "http://i.yummly.com/Green-pizza-310023-274476.s.jpg"
+         ],
+         "sourceDisplayName":"Big Girls Small Kitchen",
+         "totalTimeInSeconds":6300.0,
+         "ingredients":[
+            "salt",
+            "lemon juice",
+            "zucchini",
+            "broccoli",
+            "arugula",
+            "pizza dough",
+            "scallions",
+            "cheese",
+            "olive oil",
+            "red pepper flakes"
+         ],
+         "recipeName":"Green Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ],
+            "cuisine":[
+               "Italian"
+            ]
+         },
+         "flavors":{
+            "salty":0.8333333333333334,
+            "sour":0.3333333333333333,
+            "sweet":0.6666666666666666,
+            "bitter":0.5,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Pizza-My-Recipes",
+         "smallImageUrls":[
+            "http://i.yummly.com/Pizza-My-Recipes-121365.s.png"
+         ],
+         "sourceDisplayName":"MyRecipes",
+         "totalTimeInSeconds":2700.0,
+         "ingredients":[
+            "fresh basil",
+            "shredded mozzarella",
+            "dough",
+            "cooked chicken",
+            "cornmeal",
+            "tomato sauce",
+            "olive oil"
+         ],
+         "recipeName":"Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":1.0,
+            "sour":0.6666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":0.5,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Homemade-thin-crust-pizza-307964",
+         "smallImageUrls":[
+            "http://i.yummly.com/Homemade-thin-crust-pizza-307964-271972.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":4800.0,
+         "ingredients":[
+            "salt",
+            "base",
+            "water",
+            "flour",
+            "mozzarella",
+            "instant yeast",
+            "red onions"
+         ],
+         "recipeName":"Homemade Thin Crust Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"South-beach-diet-friendly-flatbread-pizza-309608",
+         "smallImageUrls":[
+            "http://i.yummly.com/South-beach-diet-friendly-flatbread-pizza-309608-274061.s.jpg"
+         ],
+         "sourceDisplayName":"Kalyn's Kitchen",
+         "totalTimeInSeconds":2100.0,
+         "ingredients":[
+            "grain",
+            "olive oil",
+            "sliced mushrooms",
+            "turkey pepperoni",
+            "part-skim mozzarella",
+            "pizza sauce"
+         ],
+         "recipeName":"South Beach Diet Friendly Flatbread Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ],
+            "cuisine":[
+               "American"
+            ],
+            "holiday":[
+               "Halloween"
+            ]
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.3333333333333333,
+            "sweet":0.5,
+            "bitter":0.3333333333333333,
+            "meaty":0.16666666666666666,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Ghostly-Pizza-MyRecipes-244074",
+         "smallImageUrls":[
+            "http://i.yummly.com/Ghostly-Pizza-MyRecipes-244074-129889.s.png"
+         ],
+         "sourceDisplayName":"MyRecipes",
+         "totalTimeInSeconds":2400.0,
+         "ingredients":[
+            "olive oil",
+            "pizza doughs",
+            "tomato sauce",
+            "capers",
+            "low moisture mozzarella"
+         ],
+         "recipeName":"Ghostly Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Classic-margherita-pizza-308087",
+         "smallImageUrls":[
+            "http://i.yummly.com/Classic-margherita-pizza-308087-272095.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":3000.0,
+         "ingredients":[
+            "basil",
+            "mozzarella cheese",
+            "pizza dough",
+            "garlic",
+            "salt",
+            "tomatoes",
+            "pepper"
+         ],
+         "recipeName":"Classic Margherita Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes",
+               "Appetizers"
+            ]
+         },
+         "flavors":{
+            "salty":0.16666666666666666,
+            "sour":0.3333333333333333,
+            "sweet":0.3333333333333333,
+            "bitter":0.16666666666666666,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Shaved-Asparagus-and-Gorgonzola-Pizza-Naturally-Ella-288944",
+         "smallImageUrls":[
+            "http://i.yummly.com/Shaved-Asparagus-and-Gorgonzola-Pizza-Naturally-Ella-288944-1.s.jpg"
+         ],
+         "sourceDisplayName":"Naturally Ella",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "pizza doughs",
+            "olive oil",
+            "gorgonzola",
+            "green onions",
+            "asparagus",
+            "clove garlic"
+         ],
+         "recipeName":"Shaved Asparagus and Gorgonzola Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.16666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":0.3333333333333333,
+            "meaty":0.6666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Gourmet-Chicken-Pizza-Allrecipes",
+         "smallImageUrls":[
+            "http://i2.yummly.com/Gourmet-Chicken-Pizza-Allrecipes.s.png",
+            "http://i.yummly.com/Gourmet-Chicken-Pizza-Allrecipes-73393.s.png"
+         ],
+         "sourceDisplayName":"AllRecipes",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "shredded mozzarella cheese",
+            "shredded cheddar cheese",
+            "skinless boneless chicken breasts",
+            "ranch style salad dressing",
+            "green onions",
+            "pizza crust",
+            "tomatoes"
+         ],
+         "recipeName":"Gourmet Chicken Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Desserts",
+               "Lunch and Snacks"
+            ]
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.6666666666666666,
+            "sweet":0.3333333333333333,
+            "bitter":0.16666666666666666,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Brownie-pizza-334047",
+         "smallImageUrls":[
+            "http://i.yummly.com/Brownie-pizza-334047-295967.s.jpg"
+         ],
+         "sourceDisplayName":"How Sweet It Is",
+         "totalTimeInSeconds":2700.0,
+         "ingredients":[
+            "toasted coconut",
+            "caramel sauce",
+            "brownie mix",
+            "banana",
+            "cream cheese frosting",
+            "strawberries",
+            "candy bar"
+         ],
+         "recipeName":"Brownie Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.16666666666666666,
+            "sweet":0.3333333333333333,
+            "bitter":1.0,
+            "meaty":1.0,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Goat-cheese-spinach-pizza-350262",
+         "smallImageUrls":[
+            "http://i.yummly.com/Goat-cheese-spinach-pizza-350262-315302.s.jpg"
+         ],
+         "sourceDisplayName":"Every Day with Rachael Ray",
+         "totalTimeInSeconds":2100.0,
+         "ingredients":[
+            "pizza crust",
+            "cheese",
+            "baby spinach",
+            "goat cheese",
+            "plum tomatoes"
+         ],
+         "recipeName":"Goat Cheese-Spinach Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.5,
+            "sweet":0.3333333333333333,
+            "bitter":0.3333333333333333,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Slow-Cooker-Pizza-Allrecipes",
+         "smallImageUrls":[
+            "http://i.yummly.com/Slow-Cooker-Pizza-Allrecipes-65306.s.png"
+         ],
+         "sourceDisplayName":"AllRecipes",
+         "totalTimeInSeconds":15600.0,
+         "ingredients":[
+            "ground beef",
+            "rigatoni pasta",
+            "sausage",
+            "pizza sauce",
+            "tomato soup",
+            "shredded mozzarella cheese"
+         ],
+         "recipeName":"Slow Cooker Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes",
+               "Lunch and Snacks"
+            ],
+            "cuisine":[
+               "Italian"
+            ]
+         },
+         "flavors":{
+            "salty":0.0,
+            "sour":0.16666666666666666,
+            "sweet":0.0,
+            "bitter":0.16666666666666666,
+            "meaty":0.16666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Homemade-Pizza-Simply-Recipes-43048",
+         "smallImageUrls":[
+            "http://i.yummly.com/Homemade-Pizza-Simply-Recipes-43048-4385.s.jpg"
+         ],
+         "sourceDisplayName":"Simply Recipes",
+         "totalTimeInSeconds":null,
+         "ingredients":[
+            "wheels",
+            "bread flour",
+            "olive oil",
+            "olive oil",
+            "feta cheese",
+            "bell pepper",
+            "onions",
+            "cornmeal",
+            "dry yeast",
+            "pizza doughs",
+            "warm water",
+            "pepperoni",
+            "tomato sauce",
+            "sliced ham",
+            "fresh basil",
+            "parmesan cheese",
+            "pesto",
+            "mushrooms",
+            "salt",
+            "italian sausage",
+            "sugar"
+         ],
+         "recipeName":"Homemade Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.8333333333333334,
+            "sour":0.8333333333333334,
+            "sweet":0.16666666666666666,
+            "bitter":0.8333333333333334,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Cheesy-spinach-and-artichoke-pizza-333251",
+         "smallImageUrls":[
+            "http://i.yummly.com/Cheesy-spinach-and-artichoke-pizza-333251-295171.s.jpg"
+         ],
+         "sourceDisplayName":"How Sweet It Is",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "spinach",
+            "garlic cloves",
+            "mozzarella cheese",
+            "ricotta cheese",
+            "pepper",
+            "olive oil",
+            "shallot",
+            "cheese",
+            "artichoke hearts",
+            "salt"
+         ],
+         "recipeName":"Cheesy Spinach and Artichoke Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Lunch and Snacks"
+            ]
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.3333333333333333,
+            "sweet":0.3333333333333333,
+            "bitter":0.3333333333333333,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Fast-English-Muffin-Pizzas-Allrecipes",
+         "smallImageUrls":[
+            "http://i.yummly.com/Fast-English-Muffin-Pizzas-Allrecipes-78195.s.png"
+         ],
+         "sourceDisplayName":"AllRecipes",
+         "totalTimeInSeconds":1200.0,
+         "ingredients":[
+            "english muffins",
+            "pepperoni",
+            "pizza sauce",
+            "shredded mozzarella cheese"
+         ],
+         "recipeName":"Fast English Muffin Pizzas"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.5,
+            "sweet":0.16666666666666666,
+            "bitter":0.5,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Breakfast-pizza-305693",
+         "smallImageUrls":[
+            "http://i.yummly.com/Breakfast-pizza-305693-270301.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":null,
+         "ingredients":[
+            "parmesan",
+            "bacon",
+            "yeast",
+            "flat-leaf parsley",
+            "bread flour",
+            "mozzarella",
+            "chives",
+            "ground black pepper",
+            "shallot",
+            "scallions",
+            "large eggs",
+            "kosher salt"
+         ],
+         "recipeName":"Breakfast Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes",
+               "Appetizers",
+               "Lunch and Snacks"
+            ],
+            "holiday":[
+               "Summer"
+            ]
+         },
+         "flavors":{
+            "salty":0.16666666666666666,
+            "sour":0.3333333333333333,
+            "sweet":0.16666666666666666,
+            "bitter":0.16666666666666666,
+            "meaty":0.16666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Pita-Pizza-Allrecipes_1",
+         "smallImageUrls":[
+            "http://i2.yummly.com/Pita-Pizza-Allrecipes_1-1.s.png",
+            "http://i.yummly.com/Pita-Pizza-Allrecipes_1-86618.s.png",
+            "http://i.yummly.com/Pita-Pizza-Allrecipes_1-86342.s.png"
+         ],
+         "sourceDisplayName":"AllRecipes",
+         "totalTimeInSeconds":1200.0,
+         "ingredients":[
+            "pita bread round",
+            "olive oil",
+            "garlic salt",
+            "mushrooms",
+            "shredded mozzarella cheese",
+            "pizza sauce"
+         ],
+         "recipeName":"Pita Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":1.0,
+            "sour":0.3333333333333333,
+            "sweet":0.3333333333333333,
+            "bitter":0.6666666666666666,
+            "meaty":0.6666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Spicy-sausage-and-fennel-pizza-310263",
+         "smallImageUrls":[
+            "http://i.yummly.com/Spicy-sausage-and-fennel-pizza-310263-274716.s.jpg"
+         ],
+         "sourceDisplayName":"Big Girls Small Kitchen",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "sugar",
+            "salt",
+            "tomato sauce",
+            "pizza doughs",
+            "crushed red pepper flakes",
+            "fennel bulb",
+            "olive oil",
+            "fresh mozzarella",
+            "casings",
+            "cheese"
+         ],
+         "recipeName":"Spicy Sausage and Fennel Pizza"
+      },
+      {
+         "attributes":{
+            "holiday":[
+               "Summer"
+            ]
+         },
+         "flavors":{
+            "salty":0.16666666666666666,
+            "sour":0.0,
+            "sweet":0.0,
+            "bitter":0.0,
+            "meaty":0.5,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Grilled-eggplant-and-olive-pizza-305686",
+         "smallImageUrls":[
+            "http://i.yummly.com/Grilled-eggplant-and-olive-pizza-305686-270295.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":3000.0,
+         "ingredients":[
+            "provolone",
+            "garlic clove",
+            "green olives",
+            "eggplant",
+            "extra-virgin olive oil",
+            "rounds",
+            "flat-leaf parsley",
+            "pizza dough"
+         ],
+         "recipeName":"Grilled Eggplant and Olive Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ],
+            "cuisine":[
+               "American",
+               "Italian"
+            ]
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.3333333333333333,
+            "sweet":0.3333333333333333,
+            "bitter":0.5,
+            "meaty":0.6666666666666666,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Cheese-Pizza-My-Recipes",
+         "smallImageUrls":[
+            "http://i.yummly.com/Cheese-Pizza-My-Recipes-118614.s.png"
+         ],
+         "sourceDisplayName":"MyRecipes",
+         "totalTimeInSeconds":2400.0,
+         "ingredients":[
+            "pizza doughs",
+            "olive oil",
+            "pizza sauce",
+            "fresh parmesan cheese",
+            "part skim mozzarella cheese"
+         ],
+         "recipeName":"Cheese Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Best-basic-pizza-dough-recipe-306737",
+         "smallImageUrls":[
+            "http://i.yummly.com/Best-basic-pizza-dough-recipe-306737-270014.s.jpg"
+         ],
+         "sourceDisplayName":"Food Republic",
+         "totalTimeInSeconds":4800.0,
+         "ingredients":[
+            "active dry yeast",
+            "sugar",
+            "warm water",
+            "all-purpose flour",
+            "kosher salt",
+            "olive oil"
+         ],
+         "recipeName":"Best Basic Pizza Dough Recipe"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.3333333333333333,
+            "sour":0.16666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":1.0,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Lemony-zucchini-goat-cheese-pizza-305595",
+         "smallImageUrls":[
+            "http://i.yummly.com/Lemony-zucchini-goat-cheese-pizza-305595-269042.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":1500.0,
+         "ingredients":[
+            "pizza dough",
+            "zucchini",
+            "fresh basil",
+            "goat cheese",
+            "lemon",
+            "olive oil",
+            "pepper",
+            "salt",
+            "zucchini"
+         ],
+         "recipeName":"Lemony Zucchini Goat Cheese Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Breakfast and Brunch"
+            ],
+            "cuisine":[
+               "American"
+            ]
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.3333333333333333,
+            "sweet":0.16666666666666666,
+            "bitter":0.5,
+            "meaty":0.6666666666666666,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Bacon-N-Egg-Pizza-TasteOfHome",
+         "smallImageUrls":[
+            "http://i2.yummly.com/Bacon-N-Egg-Pizza-Allrecipes.s.png",
+            "http://i.yummly.com/Bacon-N-Egg-Pizza-Allrecipes-57526.s.png"
+         ],
+         "sourceDisplayName":"Taste of Home",
+         "totalTimeInSeconds":2100.0,
+         "ingredients":[
+            "shredded cheddar cheese",
+            "eggs",
+            "crescent rolls",
+            "hash brown",
+            "romano cheese",
+            "bacon",
+            "milk"
+         ],
+         "recipeName":"Bacon N Egg Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":null,
+         "rating":5,
+         "id":"Julia-child_s-eggplant-pizzas-_tranches-d_aubergine-a-l_italienne_-309207",
+         "smallImageUrls":[
+            "http://i.yummly.com/Julia-child_s-eggplant-pizzas-_tranches-d_aubergine-a-l_italienne_-309207-273660.s.jpg"
+         ],
+         "sourceDisplayName":"Kalyn's Kitchen",
+         "totalTimeInSeconds":6300.0,
+         "ingredients":[
+            "large garlic cloves",
+            "italian seasoning",
+            "chiffonade",
+            "salt",
+            "extra-virgin olive oil",
+            "diced tomatoes",
+            "hot red pepper flakes",
+            "globe eggplant",
+            "dried oregano",
+            "freshly grated parmesan",
+            "low fat mozzarella",
+            "olive oil",
+            "basil leaves",
+            "seasoning"
+         ],
+         "recipeName":"Julia Child's Eggplant Pizzas (Tranches d'aubergine á l'italienne)"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.3333333333333333,
+            "sweet":0.5,
+            "bitter":0.16666666666666666,
+            "meaty":0.3333333333333333,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Pizza-with-bacon_-onions-and-cream-_alsatian-pizza_-305407",
+         "smallImageUrls":[
+            "http://i.yummly.com/Pizza-with-bacon_-onions-and-cream-_alsatian-pizza_-305407-268863.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":3300.0,
+         "ingredients":[
+            "pizza doughs",
+            "all-purpose flour",
+            "creme fraiche",
+            "fromage blanc",
+            "olive oil",
+            "freshly ground pepper",
+            "onion",
+            "bacon",
+            "salt"
+         ],
+         "recipeName":"Pizza with Bacon, Onions and Cream [Alsatian Pizza]"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Lunch and Snacks"
+            ]
+         },
+         "flavors":{
+            "salty":0.3333333333333333,
+            "sour":0.6666666666666666,
+            "sweet":0.3333333333333333,
+            "bitter":0.16666666666666666,
+            "meaty":0.16666666666666666,
+            "piquant":0.6666666666666666
+         },
+         "rating":4,
+         "id":"Supreme-Bagel-Pizzas-TasteOfHome",
+         "smallImageUrls":[
+            "http://i2.yummly.com/Supreme-Bagel-Pizzas-Allrecipes-1.s.png",
+            "http://i2.yummly.com/Supreme-Bagel-Pizzas-Allrecipes.s.png",
+            "http://i.yummly.com/Supreme-Bagel-Pizzas-Allrecipes-82181.s.png",
+            "http://i.yummly.com/Supreme-Bagel-Pizzas-Allrecipes-82088.s.png"
+         ],
+         "sourceDisplayName":"Taste of Home",
+         "totalTimeInSeconds":1800.0,
+         "ingredients":[
+            "fully cooked ham",
+            "bacon bits",
+            "bagels",
+            "pepperoni",
+            "shredded mozzarella cheese",
+            "pizza sauce",
+            "green pepper"
+         ],
+         "recipeName":"Supreme Bagel Pizzas"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.8333333333333334,
+            "sour":0.5,
+            "sweet":0.3333333333333333,
+            "bitter":1.0,
+            "meaty":1.0,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Butternut-squash_-sage-pesto-and-prosciutto-pizza-333356",
+         "smallImageUrls":[
+            "http://i.yummly.com/Butternut-squash_-sage-pesto-and-prosciutto-pizza-333356-295276.s.jpg"
+         ],
+         "sourceDisplayName":"How Sweet It Is",
+         "totalTimeInSeconds":4800.0,
+         "ingredients":[
+            "red onion",
+            "olive oil",
+            "butternut squash",
+            "sage leaves",
+            "nutmeg",
+            "prosciutto",
+            "pepper",
+            "pizza doughs",
+            "goat cheese",
+            "unsalted butter",
+            "salt",
+            "toasted pine nuts",
+            "grated parmesan cheese",
+            "parmesan cheese"
+         ],
+         "recipeName":"Butternut Squash, Sage Pesto and Prosciutto Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.5,
+            "sour":0.5,
+            "sweet":0.6666666666666666,
+            "bitter":0.5,
+            "meaty":0.3333333333333333,
+            "piquant":0.6666666666666666
+         },
+         "rating":5,
+         "id":"Roasted-acorn-squash-and-gorgonzola-pizza-307268",
+         "smallImageUrls":[
+            "http://i.yummly.com/Roasted-acorn-squash-and-gorgonzola-pizza-307268-271045.s.jpg"
+         ],
+         "sourceDisplayName":"Smitten Kitchen",
+         "totalTimeInSeconds":4200.0,
+         "ingredients":[
+            "pizza dough",
+            "maple syrup",
+            "arugula",
+            "olive oil",
+            "gorgonzola",
+            "mozzarella",
+            "acorn squash",
+            "salt",
+            "ground black pepper",
+            "red pepper flakes",
+            "lemon juice"
+         ],
+         "recipeName":"Roasted Acorn Squash and Gorgonzola Pizza"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ]
+         },
+         "flavors":{
+            "salty":0.6666666666666666,
+            "sour":0.16666666666666666,
+            "sweet":0.16666666666666666,
+            "bitter":0.5,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Roasted-Fall-Vegetable-and-Ricotta-Pizza-Martha-Stewart",
+         "smallImageUrls":[
+            "http://i.yummly.com/Roasted-Fall-Vegetable-and-Ricotta-Pizza-Martha-Stewart-103072.s.png"
+         ],
+         "sourceDisplayName":"Martha Stewart",
+         "totalTimeInSeconds":3000.0,
+         "ingredients":[
+            "olive oil",
+            "vegetables",
+            "part-skim mozzarella cheese",
+            "pizza doughs",
+            "flour for dusting",
+            "fresh rosemary",
+            "ground pepper",
+            "coarse salt",
+            "part skim ricotta cheese"
+         ],
+         "recipeName":"Roasted Fall Vegetable and Ricotta Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":0.8333333333333334,
+            "sour":0.16666666666666666,
+            "sweet":0.6666666666666666,
+            "bitter":0.6666666666666666,
+            "meaty":1.0,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"How-to-make-homemade-frozen-pizza-351349",
+         "smallImageUrls":[
+            "http://i.yummly.com/How-to-make-homemade-frozen-pizza-351349-342132.s.jpg"
+         ],
+         "sourceDisplayName":"The Kitchn",
+         "totalTimeInSeconds":null,
+         "ingredients":[
+            "pizza dough",
+            "cheese",
+            "sauce",
+            "other"
+         ],
+         "recipeName":"How to Make Homemade Frozen Pizza"
+      },
+      {
+         "attributes":{
+
+         },
+         "flavors":{
+            "salty":1.0,
+            "sour":0.5,
+            "sweet":0.5,
+            "bitter":0.8333333333333334,
+            "meaty":0.8333333333333334,
+            "piquant":0.0
+         },
+         "rating":5,
+         "id":"Spring-pizza-with-artichokes_-leeks_-and-shallots-310267",
+         "smallImageUrls":[
+            "http://i.yummly.com/Spring-pizza-with-artichokes_-leeks_-and-shallots-310267-274720.s.jpg"
+         ],
+         "sourceDisplayName":"Big Girls Small Kitchen",
+         "totalTimeInSeconds":4500.0,
+         "ingredients":[
+            "pizza doughs",
+            "salt",
+            "leeks",
+            "pizza doughs",
+            "casings",
+            "artichoke hearts",
+            "olive oil",
+            "fennel bulb",
+            "tomato sauce",
+            "fresh mozzarella",
+            "shallot",
+            "crushed red pepper flakes",
+            "cheese",
+            "butter",
+            "sugar",
+            "cheese",
+            "fresh mozzarella",
+            "tomato sauce"
+         ],
+         "recipeName":"Spring Pizza with Artichokes, Leeks, and Shallots"
+      },
+      {
+         "attributes":{
+            "course":[
+               "Main Dishes"
+            ],
+            "cuisine":[
+               "American",
+               "Italian"
+            ],
+            "holiday":[
+               "Game Day"
+            ]
+         },
+         "flavors":{
+            "salty":0.8333333333333334,
+            "sour":0.3333333333333333,
+            "sweet":0.3333333333333333,
+            "bitter":0.5,
+            "meaty":0.6666666666666666,
+            "piquant":0.0
+         },
+         "rating":4,
+         "id":"Pepperoni-Pizza-My-Recipes",
+         "smallImageUrls":[
+            "http://i.yummly.com/Pepperoni-Pizza-My-Recipes-119079.s.png"
+         ],
+         "sourceDisplayName":"MyRecipes",
+         "totalTimeInSeconds":1500.0,
+         "ingredients":[
+            "tomato",
+            "part-skim mozzarella cheese",
+            "italian pizza crust",
+            "pepperoni"
+         ],
+         "recipeName":"Pepperoni Pizza"
+      }
+   ],
+   "criteria":{
+      "requirePictures":true,
+      "excludedIngredients":[
+
+      ],
+      "allowedIngredients":[
+
+      ],
+      "terms":[
+         "pizza"
+      ],
+      "facetFields":[
+
+      ],
+      "resultsToSkip":0,
+      "maxResults":6
+   }
+}
